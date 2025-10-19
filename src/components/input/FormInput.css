@@ -1,0 +1,23 @@
+.form-input {
+    margin-bottom: 15px;
+  }
+  
+  .label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .input-container {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9rem;
+    width: 15rem;
+  }
+  

@@ -1,0 +1,31 @@
+.inner-container {
+  display: flex;
+  justify-content: center;
+  width: 700px;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(176, 255, 255);
+}
+.label {
+  margin-top: 10px;
+}
+.input-container {
+  width: 240px;
+  height: 21px;
+  margin-bottom: 3px;
+}
+.error {
+  color: red;
+  display: block;
+  width: "250px";
+  display: "block";
+  margin-top: -20px;
+}
+.Btn {
+  margin-left: 6rem;
+  margin-top: 2rem;
+}
+.register-container {
+  align-items: center;
+  margin-left: 4rem;
+  margin-top: 1rem;
+}
